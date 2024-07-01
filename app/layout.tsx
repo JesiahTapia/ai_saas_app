@@ -46,3 +46,5 @@ export default function RootLayout({
     </ClerkProvider>
   );
 }
+
+//code above is a temporary fix
